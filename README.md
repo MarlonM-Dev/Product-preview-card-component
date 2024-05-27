@@ -1,3 +1,3 @@
 # Product preview card component
 
-[Frontend mentor](frontendmentor.io)
+[Frontend mentor](https://www.frontendmentor.io/home)
